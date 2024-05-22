@@ -1,0 +1,44 @@
+Why Cover letter ?
+
+Any HR will first look at your cover letter/email body before opening your resume. So if you specify good contents in cover letter It will definitely gives some hints to HR before opening your resume also it saves the HR time.
+
+At many times your resume gets shortlisted when HR is just impressed with the cover letter because they may not find time to look in to your resume since your cover letter provided most of the information.
+
+One more important thing: Do not make cover letter as too lengthy or big one like resume, HR would not go through it if its very lengthy.
+
+
+Sample Cover letter (OR) Email body.
+======================================================
+
+Hello,
+
+Good Day.
+
+Myself <YOUR NAME>, I have completed my B.Tech graduation in the year 2020 and looking for opportunity as a fresher in your reputed organisation. Pls find my details below and consider my profile for <any relevant opportunity> (OR) Mention the Job code/link which you are applying for.
+
+Name:		 <Your Name>
+Graduation Year	: 2020
+Stream		: Computers
+Key Skills	: C,Java,SQL,HTML,CSS,Javascript etc
+Percentage	: 75% through out the education
+
+Thank you
+<Your Name>
+<Phone>
+
+======================================================
+
+How to use cover letter?
+
+1) Above cover letter you can create a separate file as cover letter.docx and attach it along with your resume in the email which you send to HR
+
+2) You can copy the same above cover letter contents and paste it as the Body of your email. 
+
+NOTE: In both the above cases, proper SUBJECT is very much required in the email.
+
+Ex: B.Tech Fresher(2020, CSE, 75%) Applying for Fresher position.
+Ex: Applying for Job(<JobId>)|B.Tech Fresher|2020|CSE|75%
+....
+Like above you can create any subject which is clear and easy for HR to get some idea about your profile
+
+=====================================================
